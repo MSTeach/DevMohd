@@ -245,8 +245,24 @@ body
     padding-top: 50px
 }
 .contact h2{ color:#FFF; margin-left:40px; }
-.contact P{color: #ccc; font-family: tahoma,sans-serif;; margin-left: 40px;}
-.contact p strong{color: #D1D6DA}
+.contact h2::after {
+  display: block;
+  height: 2px;
+  width: 70px;
+  background-color: #3498db;
+  content: "";
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+.contact h3{
+  color: #ccc;
+  margin-left:40px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-weight: 400;}
+.contact h3 strong{
+  color: #dedede;
+}
 .contact .info{
     width: 50%;
     margin-right:5%;
@@ -262,12 +278,16 @@ body
     overflow: hidden;
    }
 .footer span{
-       padding: 5px
+       padding: 5px;
+       font-size: 14px;
+       color: #ddd;
+       font-family: sans-serif;
+       margin: 10px 0;
 }
 .footer ul{
    list-style: none;
    padding-left: 0;
-   margin:1px;
+   margin: 10px 0;
    float: right
 }
 .footer ul li{
