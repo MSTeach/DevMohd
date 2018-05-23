@@ -6,6 +6,6 @@
 [https://msteach.github.io/DevMohd/](https://msteach.github.io/DevMohd/)
 
 ## Other links
-- [https://github.com/MSTeac](https://github.com/MSTeac)
+- [https://github.com/MSTeach](https://github.com/MSTeach)
 - [https://www.facebook.com/devmohdsaqr](https://www.facebook.com/devmohdsaqr)
 - [https://www.linkedin.com/in/mohammed-abu-saqer/](https://www.linkedin.com/in/mohammed-abu-saqer/)
